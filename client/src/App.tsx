@@ -5,6 +5,8 @@ import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/Home";
+import { ScanLine } from "@/components/ui/scanline";
+import { CircuitBackground } from "@/components/ui/circuit-background";
 
 function Router() {
   return (
@@ -19,6 +21,10 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
+        {/* Cyberpunk visual effects */}
+        <ScanLine />
+        <CircuitBackground />
+        
         <Toaster />
         <Router />
       </TooltipProvider>

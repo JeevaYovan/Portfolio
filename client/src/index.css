@@ -57,6 +57,15 @@
     position: relative;
     overflow-x: hidden;
   }
+  
+  /* Grid pattern for cyberpunk backgrounds */
+  .bg-grid-pattern {
+    background-image: 
+      linear-gradient(to right, rgba(0, 195, 255, 0.1) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0, 195, 255, 0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+    background-position: center;
+  }
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Orbitron', sans-serif;

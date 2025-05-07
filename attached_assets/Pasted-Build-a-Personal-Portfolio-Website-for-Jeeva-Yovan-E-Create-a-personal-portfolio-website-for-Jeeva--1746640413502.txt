@@ -1,0 +1,373 @@
+Build a Personal Portfolio Website for Jeeva Yovan E
+
+Create a personal portfolio website for Jeeva Yovan E, a Lead DevOps Engineer, similar in style and functionality to https://www.moncy.dev/. The website should be built using HTML, CSS, and JavaScript, and must be responsive, functioning seamlessly on both desktop and mobile devices. Use the content provided below, extracted from Jeeva Yovan E's resume, to populate each section.
+
+Website Structure and Sections
+
+The website should include the following sections:
+
+
+
+
+
+Home
+
+
+
+
+
+A hero section featuring:
+
+
+
+
+
+Name: "Jeeva Yovan E"
+
+
+
+Title: "Lead DevOps Engineer"
+
+
+
+Brief Introduction: "A proficient and reliable professional with good understanding of working various domain areas."
+
+
+
+About
+
+
+
+
+
+Detailed professional summary:
+
+
+
+
+
+"A proficient and reliable professional with good understanding of working various domain areas. Currently working as a Lead DevOps engineer at a major IT organization with demonstrated track record of performance in deliverables. Some of my traits are resilience, quick learner, and a performer. I like to use my technical and soft skills along with team collaboration to develop/optimize existing solution and to learn and develop from the process."
+
+
+
+Experience
+
+
+
+
+
+A list of work experiences, each displayed in a card format with job title, company, duration, and bullet points of responsibilities and achievements:
+
+
+
+
+
+Lead DevOps Engineer at Zubera (Mar 2025 - Present)
+
+
+
+
+
+Worked closely with stakeholders to optimize our existing B2B and B2C products for improving application performance.
+
+
+
+Deployed open-source projects on Hetzner Cloud and evaluated functionality for scalability.
+
+
+
+Evaluated the existing AWS EKS setup for our application and updated to meet compliance standards, enhancing security.
+
+
+
+Migrated all our code from GitHub to Onedev and setup the CI and CD pipeline achieving security and performance.
+
+
+
+Migrated the development and uat environment from AWS to Hertzner Cloud Server for cost consumption.
+
+
+
+Conducted POCs for Liquibase, DAPR, and Apache APISIX to enhance infrastructure.
+
+
+
+Cloud Engineer at Avasoft (Jan 2023 - Oct 2023)
+
+
+
+
+
+Designed and maintained automated CI/CD pipelines using Azure DevOps, GitHub, and servants.
+
+
+
+Integrated automated security testing tools (SonarQube, OWASP Dependency Check) into pipelines, reducing vulnerabilities detected in production.
+
+
+
+Worked collaboratively with cross-functional teams, including development and application support.
+
+
+
+Resolved most of the service tickets within SLA using ServiceNow and Jira.
+
+
+
+Achieved high production application availability through proactive monitoring using Datadog and CloudWatch.
+
+
+
+DevSecOps Engineer at Avasoft (Nov 2023 - Feb 2024)
+
+
+
+
+
+Established the initial architecture with strategies to identify and mitigate vulnerabilities proactively.
+
+
+
+Designed and implemented an end-to-end automated deployment process by integrating security tools into the NextGen products pipeline, ensuring robust product security.
+
+
+
+Analyzed security check reports and provided developers with actionable remediation steps in alignment with compliance standards.
+
+
+
+DevOps and SRE Engineer at Avasoft (Mar 2024 - Oct 2024)
+
+
+
+
+
+Designed and implemented an end-to-end solution for deploying a web application.
+
+
+
+Supported change management processes to ensure smooth transitions and updates.
+
+
+
+Managed DevOps tickets through ServiceNow and Jira, addressing issues and providing timely resolutions.
+
+
+
+Setting up new projects into GtLab CI/CD.
+
+
+
+Handled ad-hoc requests from the client's development team, including application support, integrations team.
+
+
+
+Performed hotfixes and optimized deployments for CI/CD pipelines.
+
+
+
+Provided 24/7 on-call support for production deployments, ensuring minimal downtime and efficient resolution of critical issues.
+
+
+
+Skills
+
+
+
+
+
+A grid or categorized list of skills:
+
+
+
+
+
+Cloud Platforms: AWS (EC2, VPC, S3, Lambda, API Gateway, RDS), Hetzner Cloud
+
+
+
+CI/CD Tools: Azure DevOps, GitHub Actions, GitLab, Jenkins, Onedev
+
+
+
+IaC Tools: Ansible, Terraform
+
+
+
+Containerization: Docker, AWS ECR, AWS ECS, AWS EKS, Helm Charts
+
+
+
+Monitoring: CloudWatch, Logz.io, Prometheus, Grafana
+
+
+
+Security Tools: SonarQube, OWASP ZAP, Trivy, GitLeaks, OWASP Dependency Check
+
+
+
+Operating Systems: Linux, Windows
+
+
+
+Programming/Scripting: Bash (Basic Knowledge)
+
+
+
+Projects
+
+
+
+
+
+Descriptions of key projects, each in a card format with title, duration, and bullet points:
+
+
+
+
+
+DevOps and SRE Engineer - AWS, GitLab (RAC Client) (Jan 2024 - Oct 2024)
+
+
+
+
+
+Designed and implemented an end-to-end solution for deploying a web application.
+
+
+
+Supported change management processes to ensure smooth transitions and updates.
+
+
+
+Managed DevOps tickets through ServiceNow and Jira, addressing issues and providing timely resolutions.
+
+
+
+Setting up new projects into GitLab CI/CD.
+
+
+
+Handled ad-hoc requests from the client's development team, including application support, integrations team.
+
+
+
+Performed hotfixes and optimized deployments for CI/CD pipelines.
+
+
+
+Provided 24/7 on-call support for production deployments, ensuring minimal downtime and efficient resolution of critical issues.
+
+
+
+DevSecOps Engineer - AWS, Azure DevOps, Security tools (Zeb Client) (Apr 2023 - Dec 2023)
+
+
+
+
+
+Established the initial architecture with strategies to identify and mitigate vulnerabilities proactively.
+
+
+
+Designed and implemented an end-to-end automated deployment process by integrating security tools into the NextGen products pipeline, ensuring robust product security.
+
+
+
+Analyzed security check reports and provided developers with actionable remediation steps in alignment with compliance standards.
+
+
+
+Education
+
+
+
+
+
+Educational background:
+
+
+
+
+
+"Bachelor of Engineering (ECE) - Dhirajlal Gandhi College of Technology, Salem - Aug 2019 - Jul 2023 - 8.2 GPA"
+
+
+
+Contact
+
+
+
+
+
+A contact form with fields for name, email, and message, integrated with a service like Formspree to send submissions to "jeevayovan24@gmail.com".
+
+Additional Features
+
+
+
+
+
+Navigation Bar: Include a sticky navigation bar at the top with links to Home, About, Experience, Skills, Projects, Education, and Contact sections.
+
+
+
+Footer: Add a footer with social media links:
+
+
+
+
+
+GitHub: https://github.com/JeevaYovan
+
+
+
+LinkedIn: https://linkedin.com/in/jeevayovan
+
+Design Requirements
+
+
+
+
+
+Use a clean, modern design with a light background (e.g., white or light gray).
+
+
+
+Incorporate a sans-serif font such as "Roboto" or "Open Sans".
+
+
+
+Use shades of blue and gray as accent colors for buttons, links, and highlights.
+
+
+
+Implement smooth scrolling between sections and subtle animations (e.g., fade-ins or hover effects on cards).
+
+
+
+Optionally, include icons for skills and technologies (e.g., AWS, Docker) using a library like Font Awesome or custom SVGs.
+
+Technical Requirements
+
+
+
+
+
+Build the website using vanilla HTML, CSS, and JavaScript (no frameworks unless specified).
+
+
+
+Ensure responsiveness across all screen sizes (desktop, tablet, mobile).
+
+
+
+Use semantic HTML and include proper ARIA labels for accessibility.
+
+
+
+Optimize performance by minimizing CSS and JavaScript, and compressing any images or icons used.
+
+Output
+
+Generate the complete set of files (e.g., index.html, styles.css, script.js) required to run the website locally or deploy it statically. The application should be fully functional, visually appealing, and reflective of a professional portfolio similar to https://www.moncy.dev/.

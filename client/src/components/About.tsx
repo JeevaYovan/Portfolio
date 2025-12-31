@@ -17,7 +17,7 @@ export default function About() {
   const [decryptedText, setDecryptedText] = useState("");
   const [scanActive, setScanActive] = useState(false);
   
-  const bioText = "A proficient and reliable professional with good understanding of working various domain areas. Currently working as a Lead DevOps engineer at a major IT organization with demonstrated track record of performance in deliverables. Some of my traits are resilience, quick learner, and a performer. I like to use my technical and soft skills along with team collaboration to develop/optimize existing solution and to learn and develop from the process.";
+  const bioText = "Infrastructure Lead Engineer and DevOps Consultant with nearly 3 years of expertise in designing and implementing scalable, secure, and cost-effective cloud infrastructure on AWS, Hetzner Cloud, and Azure. Specialized in modernizing infrastructure, automating deployments, and establishing comprehensive observability practices that ensure system reliability and team productivity. Proven track record of achieving 75% cost reduction through strategic cloud migration and maintaining 99.9% uptime for mission-critical platforms. Expert in SRE principles, GitOps workflows, and DevSecOps integration with 24/7 on-call support experience.";
   
   // Watch for scroll to trigger scan effect
   const aboutSectionRef = useRef<HTMLElement>(null);

@@ -208,7 +208,7 @@ export default function Hero() {
                       className="block font-orbitron font-black"
                     />
                     <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl block mt-2 font-light text-foreground/80">
-                      Lead DevOps<span className="text-accent">_</span>Engineer
+                      Lead Infrastructure<span className="text-accent">_</span>Engineer
                     </span>
                   </motion.h1>
                 </div>
@@ -220,8 +220,7 @@ export default function Hero() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.9, duration: 0.5 }}
               >
-                A proficient and reliable professional with expertise in CI/CD pipelines, 
-                infrastructure automation, cloud architecture, and modern DevOps practices.
+                Infrastructure Lead Engineer | AWS & Kubernetes Expert | DevOps & SRE | Terraform | Cloud Infrastructure Specialist | Consultant
               </motion.p>
               
               {/* Action buttons */}
